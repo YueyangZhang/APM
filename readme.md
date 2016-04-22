@@ -1,7 +1,7 @@
 1) Open a command prompt in the project's root directory (APM - Start)
 
 2) Type: `npm install`
-    This installs the dependencies as defined in the package.json file.
+    This installs the dependencies as defined in the package.json file. Maybe need to use npm version 2 to install latest angular2.
     
 3) Type: `npm start`
     This launches the TypeScript compiler (tsc) to compile the application and wait for changes. 
