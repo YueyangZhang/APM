@@ -1,0 +1,13 @@
+# .gitignore documentation
+# http://git-scm.com/docs/gitignore
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+syntax: glob
+*.log
+node_modules
+
+# IDE Folder
+.vscode
+.idea
+
